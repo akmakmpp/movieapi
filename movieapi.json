@@ -138,12 +138,28 @@
 "movietype":[
 
     {"id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg",
           "url":"",
-          "movieName":"Ms. Marvel",
-         "date":"2022",
-          "rating":"",
-          "quality":""
+          "movieName":"The Great Dictator",
+         "date":"1940",
+          "rating":"8.3",
+          "quality":"1080P"
+    },
+         {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwbFEPubG4wroLDZdmTWRGNnnWf.jpg",
+          "url":"",
+          "movieName":"Wild Child",
+         "date":"2008",
+          "rating":"7.4",
+          "quality":"1080P"
+    },
+         {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edwYmD9YUs6gMPEkNOA78f28pwM.jpg",
+          "url":"",
+          "movieName":"Hello Brother",
+         "date":"1999",
+          "rating":"6.3",
+          "quality":"1080P"
     }
 
            ]
