@@ -17,6 +17,12 @@
          "url":"",
          "movieName":"Ms. Marvel",
          "date":"2022"
+         },
+            {"id":"tr2",
+         "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/z8sUN5x17pFHy033EsFfaozTKCl.jpg",
+         "url":"",
+         "movieName":"Downton Abbey: A New Era",
+         "date":"2022"
          }
 
             ]
