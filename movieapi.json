@@ -1,8 +1,11 @@
 {
+         
+         
+        
 "bannerads":"a",
 "interads":"b",
 "nativeads":"c",
-"adsView":[{"adsimg":""}],
+"adsView":[{"adsimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/wMUPT99gw6IB9OVvC46rF8wHIRt.jpg"},{"adsimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg"},{"adsimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9Ngw106BLlNJ4iVpRHlrDfaLpCV.jpg"},{"adsimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/kiH3KPWi7BaRMvdAigcwrUFViHl.jpg"},{"adsimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg"}],
 "movies":[
 
 {
