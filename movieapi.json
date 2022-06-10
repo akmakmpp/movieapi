@@ -16,16 +16,20 @@
 "movietype":[
 
          {"id":"tr1",
-         "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVf4YHHkRfo1uuljpWBViEGmaUQ.jpg",
+         "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
          "url":"",
-         "movieName":"Ms. Marvel",
-         "date":"2022"
+         "movieName":"The Shawshank Redemption",
+         "date":"2022",
+          "rating":"8.8",
+          "quality":"1080P"
          },
             {"id":"tr2",
-         "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+         "img":"https://www.themoviedb.org/movie/13-forrest-gump#",
          "url":"",
-         "movieName":"Downton Abbey: A New Era",
-         "date":"2022"
+         "movieName":"Forrest Gump",
+         "date":"1994",
+          "rating":"8.6",
+          "quality":"1080P"
          }
 
             ]
@@ -43,7 +47,9 @@
           "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
           "url":"",
           "movieName":"Ms. Marvel",
-         "date":"2022"
+         "date":"2022",
+          "rating":"",
+          "quality":""
     }
 
            ]
@@ -60,7 +66,9 @@
           "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
           "url":"",
           "movieName":"Ms. Marvel",
-         "date":"2022"
+         "date":"2022",
+          "rating":"",
+          "quality":""
     }
 
            ]
@@ -77,7 +85,9 @@
           "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
           "url":"",
           "movieName":"Ms. Marvel",
-         "date":"2022"
+         "date":"2022",
+          "rating":"",
+          "quality":""
     }
 
            ]
@@ -94,7 +104,9 @@
           "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
           "url":"",
           "movieName":"Ms. Marvel",
-         "date":"2022"
+         "date":"2022",
+          "rating":"",
+          "quality":""
     }
 
            ]
