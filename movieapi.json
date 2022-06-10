@@ -173,12 +173,28 @@
 "movietype":[
 
     {"id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnJ4ek6QKFvEoCQzxpllIRn59Zw.jpg",
           "url":"",
-          "movieName":"Ms. Marvel",
+          "movieName":"Deep in the Forest",
          "date":"2022",
-          "rating":"",
-          "quality":""
+          "rating":"6.0",
+          "quality":"1080P"
+    },
+             {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxOXvW0pxqqMV2Q0YCuehMwLkER.jpg",
+          "url":"",
+          "movieName":"The Fate of Swordsman",
+         "date":"2017",
+          "rating":"10.0",
+          "quality":"1080P"
+    },
+             {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edRmta5mJHrnmRmcHiH3RVDtaZE.jpg",
+          "url":"",
+          "movieName":"Runway 34",
+         "date":"2022",
+          "rating":"10.0",
+          "quality":"1080P"
     }
 
            ]
