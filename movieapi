@@ -39,6 +39,57 @@
 
            ]
 
+},
+{
+
+"movType":"Animation",
+"seeAll":"SeeAll",
+
+"movietype":[
+
+    {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+          "url":"",
+          "movieName":"Ms. Marvel",
+         "date":"2022"
+    }
+
+           ]
+
+},
+{
+
+"movType":"Comedy",
+"seeAll":"SeeAll",
+
+"movietype":[
+
+    {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+          "url":"",
+          "movieName":"Ms. Marvel",
+         "date":"2022"
+    }
+
+           ]
+
+},
+{
+
+"movType":"Horror & Thriller",
+"seeAll":"SeeAll",
+
+"movietype":[
+
+    {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+          "url":"",
+          "movieName":"Ms. Marvel",
+         "date":"2022"
+    }
+
+           ]
+
 }
 
 ]
