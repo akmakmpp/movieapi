@@ -15,45 +15,65 @@
 
 "movietype":[
 
-         {"id":"tr1",
+         {
+         "type":"topRated",         
+         "id":"tr1",
          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
          "url":"",
          "movieName":"The Shawshank Redemption",
          "date":"2022",
           "rating":"8.8",
-          "quality":"HD"
+          "quality":"HD",
+          "rimg":"",
+          "text":""
          },
-            {"id":"tr2",
+            {
+         "type":"topRated", 
+         "id":"tr2",
          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
          "url":"",
          "movieName":"Forrest Gump",
          "date":"2014",
           "rating":"8.7",
-          "quality":"FHD"
+          "quality":"FHD",
+          "rimg":"",
+          "text":""
          },
-            {"id":"tr3",
+            {
+          "type":"topRated",            
+         "id":"tr3",
          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
          "url":"",
          "movieName":"Interstellar",
          "date":"1994",
           "rating":"8.6",
-          "quality":"FHD"
+          "quality":"FHD",
+          "rimg":"",
+          "text":""
          },
-            {"id":"tr4",
+            {
+          "type":"topRated" ,
+          "id":"tr4",
          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
          "url":"",
          "movieName":"Schindler's List",
          "date":"1993",
           "rating":"8.7",
-          "quality":"FHD"
+          "quality":"FHD",
+          "rimg":"",
+          "text":""
          },
-            {"id":"tr5",
+            {
+            "type":"topRated",           
+          "id":"tr5",
          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
          "url":"",
          "movieName":"Spirited Away",
          "date":"2001",
           "rating":"8.6",
-          "quality":"FHD"
+          "quality":"FHD",
+          "rimg":"",
+          "text":""
          }
 
             ]
@@ -67,29 +87,41 @@
 
 "movietype":[
 
-    {"id":"tr1",
+    {
+            "type":"action",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2V7KcvQXJn7YXr3PeN5Xbdwsgsx.jpg",
           "url":"",
           "movieName":"Ms. Marvel",
          "date":"1994",
           "rating":"6.4",
-          "quality":"720P"
+          "quality":"720P",
+          "rimg":"",
+          "text":""
     },
-         {"id":"tr1",
+         {
+            "type":"action",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v5a3Gzc0WYQNpUdLhMgkqKGCkhq.jpg",
           "url":"",
           "movieName":"Double Threat",
          "date":"2022",
           "rating":"6.0",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     },
-         {"id":"tr1",
+         {
+            "type":"action",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zL4VCVin4S8kOXhszMDqfwWPCM.jpg",
           "url":"",
           "movieName":"The Heist of the Century",
          "date":"2020",
           "rating":"7.8",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     }
 
            ]
@@ -102,29 +134,41 @@
 
 "movietype":[
 
-    {"id":"tr1",
+    {
+           "type":"animation",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg",
           "url":"",
           "movieName":"Checkered Ninja 2",
          "date":"2021",
           "rating":"6.5",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     },
-         {"id":"tr1",
+         {
+            "type":"animation",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dzN5xbp73TI7pjEqZ66ECNxdWJl.jpg",
           "url":"",
           "movieName":"Checkered Ninja",
          "date":"2018",
           "rating":"7.9",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     },
-         {"id":"tr1",
+         {
+            "type":"animation",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
           "url":"",
           "movieName":"Turning Red",
          "date":"2022",
           "rating":"6.7",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     }
 
            ]
@@ -137,29 +181,41 @@
 
 "movietype":[
 
-    {"id":"tr1",
+    {
+             "type":"comedy",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg",
           "url":"",
           "movieName":"The Great Dictator",
          "date":"1940",
           "rating":"8.3",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     },
-         {"id":"tr1",
+         {
+            "type":"comedy",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwbFEPubG4wroLDZdmTWRGNnnWf.jpg",
           "url":"",
           "movieName":"Wild Child",
          "date":"2008",
           "rating":"7.4",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     },
-         {"id":"tr1",
+         {
+            "type":"comedy",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edwYmD9YUs6gMPEkNOA78f28pwM.jpg",
           "url":"",
           "movieName":"Hello Brother",
          "date":"1999",
           "rating":"6.3",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     }
 
            ]
@@ -172,29 +228,41 @@
 
 "movietype":[
 
-    {"id":"tr1",
+    {
+           "type":"horrorthriller",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnJ4ek6QKFvEoCQzxpllIRn59Zw.jpg",
           "url":"",
           "movieName":"Deep in the Forest",
          "date":"2022",
           "rating":"6.0",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     },
-             {"id":"tr1",
+             {
+                 "type":"horrorthriller",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxOXvW0pxqqMV2Q0YCuehMwLkER.jpg",
           "url":"",
           "movieName":"The Fate of Swordsman",
          "date":"2017",
           "rating":"10.0",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     },
-             {"id":"tr1",
+             {
+                  "type":"horrorthriller",         
+         "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edRmta5mJHrnmRmcHiH3RVDtaZE.jpg",
           "url":"",
           "movieName":"Runway 34",
          "date":"2022",
           "rating":"10.0",
-          "quality":"1080P"
+          "quality":"1080P",
+          "rimg":"",
+          "text":""
     }
 
            ]
