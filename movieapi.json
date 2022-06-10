@@ -68,12 +68,28 @@
 "movietype":[
 
     {"id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2V7KcvQXJn7YXr3PeN5Xbdwsgsx.jpg",
           "url":"",
           "movieName":"Ms. Marvel",
+         "date":"1994",
+          "rating":"6.4",
+          "quality":"720P"
+    },
+         {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v5a3Gzc0WYQNpUdLhMgkqKGCkhq.jpg",
+          "url":"",
+          "movieName":"Double Threat",
          "date":"2022",
-          "rating":"",
-          "quality":""
+          "rating":"6.0",
+          "quality":"1080P"
+    },
+         {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zL4VCVin4S8kOXhszMDqfwWPCM.jpg",
+          "url":"",
+          "movieName":"The Heist of the Century",
+         "date":"2020",
+          "rating":"7.8",
+          "quality":"1080P"
     }
 
            ]
@@ -87,12 +103,28 @@
 "movietype":[
 
     {"id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w220_and_h330_face/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg",
           "url":"",
-          "movieName":"Ms. Marvel",
+          "movieName":"Checkered Ninja 2",
+         "date":"2021",
+          "rating":"6.5",
+          "quality":"1080P"
+    },
+         {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dzN5xbp73TI7pjEqZ66ECNxdWJl.jpg",
+          "url":"",
+          "movieName":"Checkered Ninja",
+         "date":"2018",
+          "rating":"7.9",
+          "quality":"1080P"
+    },
+         {"id":"tr1",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+          "url":"",
+          "movieName":"Turning Red",
          "date":"2022",
-          "rating":"",
-          "quality":""
+          "rating":"6.7",
+          "quality":"1080P"
     }
 
            ]
