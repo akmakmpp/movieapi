@@ -27,7 +27,31 @@
          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
          "url":"",
          "movieName":"Forrest Gump",
+         "date":"2014",
+          "rating":"8.7",
+          "quality":"FHD"
+         },
+            {"id":"tr3",
+         "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+         "url":"",
+         "movieName":"Interstellar",
          "date":"1994",
+          "rating":"8.6",
+          "quality":"FHD"
+         },
+            {"id":"tr4",
+         "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+         "url":"",
+         "movieName":"Schindler's List",
+         "date":"1993",
+          "rating":"8.7",
+          "quality":"FHD"
+         },
+            {"id":"tr5",
+         "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+         "url":"",
+         "movieName":"Spirited Away",
+         "date":"2001",
           "rating":"8.6",
           "quality":"FHD"
          }
