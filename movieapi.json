@@ -21,7 +21,7 @@
          "movieName":"The Shawshank Redemption",
          "date":"2022",
           "rating":"8.8",
-          "quality":"1080P"
+          "quality":"HD"
          },
             {"id":"tr2",
          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
@@ -29,7 +29,7 @@
          "movieName":"Forrest Gump",
          "date":"1994",
           "rating":"8.6",
-          "quality":"1080P"
+          "quality":"FHD"
          }
 
             ]
