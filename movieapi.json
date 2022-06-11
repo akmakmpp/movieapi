@@ -89,26 +89,50 @@
 
     {
             "type":"Action",         
-         "id":"tr1",
+         "id":"a5",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2V7KcvQXJn7YXr3PeN5Xbdwsgsx.jpg",
           "url":"",
-          "movieName":"Ms. Marvel",
+          "movieName":"The Bodyguard from Beijing",
          "date":"1994",
           "rating":"6.4",
           "quality":"720P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/8J7jPGCFOYyj8MhSaE2qp7o0pLB.jpg",
           "text":""
     },
          {
             "type":"Action",         
-         "id":"tr1",
+         "id":"a4",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v5a3Gzc0WYQNpUdLhMgkqKGCkhq.jpg",
           "url":"",
           "movieName":"Double Threat",
          "date":"2022",
           "rating":"6.0",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/eG6S4VvFegYfafXRin5ofcIexbx.jpg",
+          "text":""
+    },
+         {
+            "type":"Action",         
+         "id":"a3",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zL4VCVin4S8kOXhszMDqfwWPCM.jpg",
+          "url":"",
+          "movieName":"The Heist of the Century",
+         "date":"2020",
+          "rating":"7.8",
+          "quality":"1080P",
+          "rimg":"https://www.themoviedb.org/t/p/w500_and_h282_face/1umKVgbjFG5Cho5ZKTpcvRFJjuJ.jpg",
+          "text":""
+    },
+         {
+            "type":"Action",         
+         "id":"tr2",
+          "img":"https://image.tmdb.org/t/p/w185/fbh3maleH24FiSGlTKvoVVe0txC.jpg",
+          "url":"",
+          "movieName":"Don",
+         "date":"2022",
+          "rating":"7",
+          "quality":"1080P",
+          "rimg":"https://image.tmdb.org/t/p/w300/ifNB8EuoRgYIYoImQ1hNoNDmXX9.jpg",
           "text":""
     },
          {
@@ -116,35 +140,11 @@
          "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zL4VCVin4S8kOXhszMDqfwWPCM.jpg",
           "url":"",
-          "movieName":"The Heist of the Century",
+          "movieName":"Wolf Hound",
          "date":"2020",
-          "rating":"7.8",
+          "rating":"6",
           "quality":"1080P",
-          "rimg":"",
-          "text":""
-    },
-         {
-            "type":"Action",         
-         "id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zL4VCVin4S8kOXhszMDqfwWPCM.jpg",
-          "url":"",
-          "movieName":"The Heist of the Century",
-         "date":"2020",
-          "rating":"7.8",
-          "quality":"1080P",
-          "rimg":"",
-          "text":""
-    },
-         {
-            "type":"Action",         
-         "id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zL4VCVin4S8kOXhszMDqfwWPCM.jpg",
-          "url":"",
-          "movieName":"The Heist of the Century",
-         "date":"2020",
-          "rating":"7.8",
-          "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/vLPSvAt1CnfmDCeqG3zkFh0s6S4.jpg",
           "text":""
     }
 
