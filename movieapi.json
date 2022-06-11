@@ -212,7 +212,7 @@
          {
             "type":"Animation",         
          "id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jgfNqGZ4afLiZVHkVxnIRefOVBk.jpg",
           "url":"",
           "movieName":"Chun Tae-il: A Flame That Lives On",
          "date":"2021",
@@ -235,7 +235,7 @@
     {
              "type":"Comedy",         
          "id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVf4YHHkRfo1uuljpWBViEGmaUQ.jpg",
           "url":"",
           "movieName":"Hustle",
          "date":"2022",
@@ -312,7 +312,7 @@
          "date":"2022",
           "rating":"6.0",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/q2ilgxGlGGr9P9XF0wXpNI1XgVu.jpg",
           "text":""
     },
              {
@@ -324,7 +324,7 @@
          "date":"2017",
           "rating":"10.0",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/fbKIe3GqIy5mcMYAaYPlXk7ovq7.jpg",
           "text":""
     },
              {
@@ -336,31 +336,31 @@
          "date":"2022",
           "rating":"10.0",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/7yoL7Us73bYKprDhZAeyv9lOtp9.jpg",
           "text":""
     },
              {
                   "type":"Horror & Thriller",         
          "id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edRmta5mJHrnmRmcHiH3RVDtaZE.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eIUixNvox4U4foL5Z9KbN9HXYSM.jpg",
           "url":"",
-          "movieName":"Runway 34",
-         "date":"2022",
-          "rating":"10.0",
+          "movieName":"The Grandmother",
+         "date":"2021",
+          "rating":"6.0",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/An1nKjXahrChfEbZ3MAE8fsiut1.jpg",
           "text":""
     },
              {
                   "type":"Horror & Thriller",         
          "id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edRmta5mJHrnmRmcHiH3RVDtaZE.jpg",
+          "img":"https://media.elcinema.com/uploads/_315x420_4ed3b2efc61c4120b125ae500273d5aabb6d225d50fab468f5e3cf1aa6004044.jpg",
           "url":"",
-          "movieName":"Runway 34",
-         "date":"2022",
+          "movieName":"Dora",
+         "date":"2017",
           "rating":"10.0",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://venkatarangan.com/blog/wp-content/uploads/2017/04/dora-2017-featured.gif",
           "text":""
     }
 
