@@ -237,11 +237,11 @@
          "id":"tr1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg",
           "url":"",
-          "movieName":"The Great Dictator",
-         "date":"1940",
-          "rating":"8.3",
+          "movieName":"Hustle",
+         "date":"2022",
+          "rating":"7.3",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/p9fM5hm7kBaU3VmcEU85ynf4XwS.jpg",
           "text":""
     },
          {
@@ -251,9 +251,9 @@
           "url":"",
           "movieName":"Wild Child",
          "date":"2008",
-          "rating":"7.4",
+          "rating":"6.0",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/zjobTF54Z1P1hpa3w2RePqL42is.jpg",
           "text":""
     },
          {
@@ -265,31 +265,31 @@
          "date":"1999",
           "rating":"6.3",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/j8hzmGVPomKpRH3YagdhQTC0KQx.jpg",
           "text":""
     },
          {
             "type":"Comedy",         
          "id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edwYmD9YUs6gMPEkNOA78f28pwM.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hLI7KbZZF8Tt0XoOYyd2S5oc8n4.jpg",
           "url":"",
-          "movieName":"Hello Brother",
-         "date":"1999",
-          "rating":"6.3",
+          "movieName":"Paulie Go",
+         "date":"2022",
+          "rating":"5.2",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/8K9YaEcz9JnwOc7JAM3Ckap16zS.jpg",
           "text":""
     },
          {
             "type":"Comedy",         
          "id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edwYmD9YUs6gMPEkNOA78f28pwM.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg",
           "url":"",
-          "movieName":"Hello Brother",
-         "date":"1999",
-          "rating":"6.3",
+          "movieName":"Fire Island",
+         "date":"2022",
+          "rating":"6.8",
           "quality":"1080P",
-          "rimg":"",
+          "rimg":"https://www.themoviedb.org/t/p/original/4uwOKYaySkczmZ5C4EO50Ay3IoT.jpg",
           "text":""
     }
 
