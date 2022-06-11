@@ -126,19 +126,19 @@
          {
             "type":"Action",         
          "id":"tr2",
-          "img":"https://image.tmdb.org/t/p/w185/fbh3maleH24FiSGlTKvoVVe0txC.jpg",
+          "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMJC3ZMxSuQDBkAsSDvrLo3ChSAWjDS4tQf9Sywnu79jikqOO",
           "url":"",
           "movieName":"Don",
          "date":"2022",
           "rating":"7",
           "quality":"1080P",
-          "rimg":"https://image.tmdb.org/t/p/w300/ifNB8EuoRgYIYoImQ1hNoNDmXX9.jpg",
+          "rimg":"https://i.ytimg.com/vi/s5ak-NY6OC8/maxresdefault.jpg",
           "text":""
     },
          {
             "type":"Action",         
          "id":"tr1",
-          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1zL4VCVin4S8kOXhszMDqfwWPCM.jpg",
+          "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6sMnY4fEVAfdadhANhGnNckxsmx.jpg",
           "url":"",
           "movieName":"Wolf Hound",
          "date":"2020",
