@@ -128,7 +128,7 @@
     },
          {
             "type":"Action",         
-         "id":"tr2",
+         "id":"a2",
           "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMJC3ZMxSuQDBkAsSDvrLo3ChSAWjDS4tQf9Sywnu79jikqOO",
           "url":"",
           "movieName":"Don",
@@ -140,7 +140,7 @@
     },
          {
             "type":"Action",         
-         "id":"tr1",
+         "id":"a1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6sMnY4fEVAfdadhANhGnNckxsmx.jpg",
           "url":"",
           "movieName":"Wolf Hound",
@@ -163,7 +163,7 @@
 
     {
            "type":"Animation",         
-         "id":"tr1",
+         "id":"an1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg",
           "url":"",
           "movieName":"Checkered Ninja 2",
@@ -175,7 +175,7 @@
     },
          {
             "type":"Animation",         
-         "id":"tr1",
+         "id":"an2",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dzN5xbp73TI7pjEqZ66ECNxdWJl.jpg",
           "url":"",
           "movieName":"Checkered Ninja",
@@ -187,7 +187,7 @@
     },
          {
             "type":"Animation",         
-         "id":"tr1",
+         "id":"an3",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
           "url":"",
           "movieName":"Turning Red",
@@ -199,7 +199,7 @@
     },
          {
             "type":"Animation",         
-         "id":"tr1",
+         "id":"an4",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
           "url":"",
           "movieName":"Coco",
@@ -211,7 +211,7 @@
     },
          {
             "type":"Animation",         
-         "id":"tr1",
+         "id":"an5",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jgfNqGZ4afLiZVHkVxnIRefOVBk.jpg",
           "url":"",
           "movieName":"Chun Tae-il: A Flame That Lives On",
@@ -234,7 +234,7 @@
 
     {
              "type":"Comedy",         
-         "id":"tr1",
+         "id":"c1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVf4YHHkRfo1uuljpWBViEGmaUQ.jpg",
           "url":"",
           "movieName":"Hustle",
@@ -246,7 +246,7 @@
     },
          {
             "type":"Comedy",         
-         "id":"tr1",
+         "id":"c2",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwbFEPubG4wroLDZdmTWRGNnnWf.jpg",
           "url":"",
           "movieName":"Wild Child",
@@ -258,7 +258,7 @@
     },
          {
             "type":"Comedy",         
-         "id":"tr1",
+         "id":"c3",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edwYmD9YUs6gMPEkNOA78f28pwM.jpg",
           "url":"",
           "movieName":"Hello Brother",
@@ -270,7 +270,7 @@
     },
          {
             "type":"Comedy",         
-         "id":"tr1",
+         "id":"c4",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hLI7KbZZF8Tt0XoOYyd2S5oc8n4.jpg",
           "url":"",
           "movieName":"Paulie Go",
@@ -282,7 +282,7 @@
     },
          {
             "type":"Comedy",         
-         "id":"tr1",
+         "id":"c5",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg",
           "url":"",
           "movieName":"Fire Island",
@@ -305,7 +305,7 @@
 
     {
            "type":"Horror & Thriller",         
-         "id":"tr1",
+         "id":"h1",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnJ4ek6QKFvEoCQzxpllIRn59Zw.jpg",
           "url":"",
           "movieName":"Deep in the Forest",
@@ -317,7 +317,7 @@
     },
              {
                  "type":"Horror & Thriller",         
-         "id":"tr1",
+         "id":"h2",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxOXvW0pxqqMV2Q0YCuehMwLkER.jpg",
           "url":"",
           "movieName":"The Fate of Swordsman",
@@ -329,7 +329,7 @@
     },
              {
                   "type":"Horror & Thriller",         
-         "id":"tr1",
+         "id":"h3",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edRmta5mJHrnmRmcHiH3RVDtaZE.jpg",
           "url":"",
           "movieName":"Runway 34",
@@ -341,7 +341,7 @@
     },
              {
                   "type":"Horror & Thriller",         
-         "id":"tr1",
+         "id":"h4",
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eIUixNvox4U4foL5Z9KbN9HXYSM.jpg",
           "url":"",
           "movieName":"The Grandmother",
@@ -353,7 +353,7 @@
     },
              {
                   "type":"Horror & Thriller",         
-         "id":"tr1",
+         "id":"h5",
           "img":"https://media.elcinema.com/uploads/_315x420_4ed3b2efc61c4120b125ae500273d5aabb6d225d50fab468f5e3cf1aa6004044.jpg",
           "url":"",
           "movieName":"Dora",
