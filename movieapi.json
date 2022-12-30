@@ -16,8 +16,7 @@
 "movietype":[
 
     {
-           "type":"Horror & Thriller",         
-         "id":"h1",
+                
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnJ4ek6QKFvEoCQzxpllIRn59Zw.jpg",
           "url":"http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
              "moreUrl":[
@@ -42,8 +41,8 @@
           "text":""
     },
              {
-                 "type":"Horror & Thriller",         
-         "id":"h2",
+                        
+      
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxOXvW0pxqqMV2Q0YCuehMwLkER.jpg",
           "url":"http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
                        "moreUrl":[
@@ -68,8 +67,8 @@
           "text":""
     },
              {
-                  "type":"Horror & Thriller",         
-         "id":"h3",
+                        
+        
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/edRmta5mJHrnmRmcHiH3RVDtaZE.jpg",
           "url":"http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
                        "moreUrl":[
@@ -95,8 +94,7 @@
           "text":""
     },
              {
-                  "type":"Horror & Thriller",         
-         "id":"h4",
+                 
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eIUixNvox4U4foL5Z9KbN9HXYSM.jpg",
           "url":"http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
                      "moreUrl":[
@@ -121,8 +119,7 @@
           "text":""
     },
              {
-                  "type":"Horror & Thriller",         
-         "id":"h5",
+                  
           "img":"https://media.elcinema.com/uploads/_315x420_4ed3b2efc61c4120b125ae500273d5aabb6d225d50fab468f5e3cf1aa6004044.jpg",
           "url":"http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
                   "moreUrl":[
