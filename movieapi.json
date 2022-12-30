@@ -21,13 +21,7 @@
                    }
           
           ],
-               "durl":[
-                   {
-                   "durl": "",
-                  "dquality":""
-                   }
-          
-          ],
+             
           "movieName":"Deep in the Forest",
          "date":"2022",
           "rating":"6.0",
@@ -47,13 +41,7 @@
                    }
           
           ],
-                        "durl":[
-                   {
-                   "durl": "",
-                  "dquality":""
-                   }
-          
-          ],
+                 
           "movieName":"The Fate of Swordsman",
          "date":"2017",
           "rating":"10.0",
@@ -74,13 +62,7 @@
           
           ],
                      
-                        "durl":[
-                   {
-                   "durl": "",
-                  "dquality":""
-                   }
-          
-          ],
+                  
           "movieName":"Runway 34",
          "date":"2022",
           "rating":"10.0",
@@ -99,13 +81,7 @@
                    }
           
           ],
-                        "durl":[
-                   {
-                   "durl": "",
-                  "dquality":""
-                   }
-          
-          ],
+                
           "movieName":"The Grandmother",
          "date":"2021",
           "rating":"6.0",
@@ -121,13 +97,6 @@
                    {
                    "url": "http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
                   "urlType":""
-                   }
-          
-          ],
-                        "durl":[
-                   {
-                   "durl": "",
-                  "dquality":""
                    }
           
           ],
