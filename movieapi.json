@@ -11,8 +11,7 @@
 
     {
          "movieName":"Deep in the Forest",
-         "date":"2022",
-          "rating":"6.0",     
+         "date":"2022",    
           "img":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnJ4ek6QKFvEoCQzxpllIRn59Zw.jpg",
           "rimg":"https://www.themoviedb.org/t/p/w533_and_h300_bestv2/q2ilgxGlGGr9P9XF0wXpNI1XgVu.jpg",
           "url":"http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
@@ -41,8 +40,7 @@
 
     {
          "movieName":"The King: Eternal Monarch",
-         "date":"2020",
-          "rating":"6.0",     
+         "date":"2020",    
           "img":"http://zegomovie.com/Uploads/vod/2020-04-18/5e9a9b9ba5145.jpg",
           "rimg":"https://www.themoviedb.org/t/p/original/tjjtagIwapiPDyuOSIsxggfdU4Z.jpg",
           "url":"http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
