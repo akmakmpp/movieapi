@@ -32,7 +32,102 @@
     }
 
 ]
-}
+},
+      {
+
+"movType":"Series",
+"mors":"yes",
+"movietype":[
+
+    {
+         "movieName":"The King: Eternal Monarch",
+         "date":"2020",
+          "rating":"6.0",     
+          "img":"http://zegomovie.com/Uploads/vod/2020-04-18/5e9a9b9ba5145.jpg",
+          "rimg":"https://www.themoviedb.org/t/p/original/tjjtagIwapiPDyuOSIsxggfdU4Z.jpg",
+          "url":"http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
+         "text": "Synopsis of The King: Eternal Monarch (2020)\n အားလုံးစောင့်မျှော်နေတဲ့ စီးရီးလေး စတင်ပါပြီ။ အပတ်စဉ် သောကြာ စနေ ညတွေမှာ တင်ဆက်ပေးသွားမှာ ဖြစ်ပါတယ်။ မင်းသားကတော့ F4 မင်းသားလို့ အများသိတဲ့ လီမင်ဟိုပါပဲ။ ဒီစီးရီးကတော့ အပြိုင်စကြဝဠာ၊ အပြိုင်ကမ္ဘာ အယူအဆတွေနဲ့ပဲ တည်ဆောက်ထားတာပါ။ အပြိုင်ကမ္ဘာတစ်ဖက်မှာ Corea (ကိုရီးယား တိုင်းပြည်) ရှိပါတယ်။ အဲဒီမှာ အင်မတန်အစွမ်းထက်တဲ့ ပုလွေတစ်ခု ရှိပြီးအဲဒီပုလွေကို လုယူဖို့အတွက် မင်းသား လီလင် ဟာ အစ်ကိုဖြစ်သူ မင်းကြီးကို လုပ်ကြံခဲ့ပါတယ်။ ဒါပေမယ့် အိမ်ရှေ့စံမင်းသား ကလေးငယ် လီဂွန် (လီမင်ဟို) က တားဆီးခဲ့တဲ့အတွက် မအောင်မြင်ဘဲ ထွက်ပြေးသွားခဲ့ပါတယ်။ အဲဒီအချိန်မှာ လီဂွန်ကို အမည်မသိ လူတစ်ယောက်က ကယ်ဆယ်ခဲ့ပြီး ဂျောင်ထယ်အူ ဆိုတဲ့ ရဲကတ်ပြားလေး ကျန်နေခဲ့ပါတယ်။ လီဂွန်က ဘုရင်အဖြစ် နန်းတက်ပြီး အရွယ်ရောက်လာချိန်မှာ အပြိုင်ကမ္ဘာက စုံထောက်မ ဗိုလ် ဂျောင်ထယ်အူ နဲ့ ပြန်တွေ့ဆုံကြတဲ့အခါမှာ CM Team က ဘာသာပြန်ပေးထားပြီး LK မှ တင်ဆက်ပေးထားပါတယ်။",
+
+          "moreUrl":[
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp1/index.m3u8",
+                  "urlType":"Part 1"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp2/index.m3u8",
+                  "urlType":"Part 2"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp3/index.m3u8",
+                  "urlType":"Part 3"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp4/index.m3u8",
+                  "urlType":"Part 4"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp5/index.m3u8",
+                  "urlType":"Part 5"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp6/index.m3u8",
+                  "urlType":"Part 6"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp7/index.m3u8",
+                  "urlType":"Part 7"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp8/index.m3u8",
+                  "urlType":"Part 8"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp9/index.m3u8",
+                  "urlType":"Part 9"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp10/index.m3u8",
+                  "urlType":"Part 10"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp11/index.m3u8",
+                  "urlType":"Part 11"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp12/index.m3u8",
+                  "urlType":"Part 12"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp13/index.m3u8",
+                  "urlType":"Part 13"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp14/index.m3u8",
+                  "urlType":"Part 14"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp15/index.m3u8",
+                  "urlType":"Part 15"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp16/index.m3u8",
+                  "urlType":"Part 16"
+                   }, 
+                   {
+                   "url": "http://www.zegomovie.com/Videos/TheKingEternalMonarchEp17/index.m3u8",
+                  "urlType":"Part 17"
+                   }
+          
+          ]
+             
+        
+    }
+
+]
+}   
+         
+         
+         
          ]
 
 
