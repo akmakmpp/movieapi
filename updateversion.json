@@ -1,9 +1,9 @@
 {
- "uv":"other",
+ "uv":"yes",
 "directlink": "https://github.com/fotlivemm123/fothl/blob/main/app-armeabi-v7a-release.apk?raw=true",
  "playstore": "https://play.google.com/store/apps/details?id=com.aktech.ynwamm",
  "title": "ဘောပွဲကြည့်ရန်",
  "reason":"မပေါ် သေးပါက အပေါ် က FotLive ကို ၅ ချက်နှိပ်ပေးပါ",
-  "dis":true
+  "dis":false
   
 }
