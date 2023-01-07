@@ -190,7 +190,28 @@
 
                         
                         ]
-                        }
+                        },
+                        
+
+{
+ 
+"movType":"Animation",
+"mors":"no",
+"movietype":[
+      
+    {
+         "movieName":"Minions & More 1",
+         "date":"2022",    
+          "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b90f8473456.PNG",
+          "rimg":"https://m.media-amazon.com/images/M/MV5BNjE3MDYxMGYtYWU5NC00ZjNlLWJjZDktNmNlM2JmNWRiN2U5XkEyXkFqcGdeQXVyMjAzOTA0MTk@._V1_.jpg",
+          "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKab4ctH4GHA/gvYK5gN/ndmye6xn8XDdVaQy2HhS5xLFXq0f2lpObYbm1ieKfEMcXSG5SmO1SFrLd81Fskjh",
+          "text":"Minions & More 1"
+    
+}
+
+]
+}
+
                         
                   
 
