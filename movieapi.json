@@ -130,7 +130,27 @@
                                "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbv+ddP8F28VmeYv4AN7opmOYahpqyCeU7go2X5O9RqFV5BEozQTCeGYsEmwRmY=",
                                "text":"Poikkal Kuthirai"
                          
-                     }
+                     },
+                     {
+                        "movieName":"Kantara",
+                        "date":"2022",    
+                         "img":"http://zegomovie.com/Uploads/vod/2022-11-25/638083dfdd72d.jpg",
+                         "rimg":"https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1662382526.jpg",
+                         "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaDwcsz2BGJxp/Mp/RBoqpizfvUJy0r5E8ZXuhw3nw==",
+                         "text":"Kantara"
+                   
+               },
+               {
+                  "movieName":"Yashoda",
+                  "date":"2022",    
+                   "img":"http://zegomovie.com/Uploads/vod/2022-12-15/639afa0e4729c.JPG",
+                   "rimg":"",
+                   "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbLwb9D4EmJxtfM04R5+qpizfvUJy0r5E8ZXuhw3nw==",
+                   "text":"Yashoda"
+             
+         }
+
+
                         
                         ]
                         }
