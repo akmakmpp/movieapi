@@ -150,14 +150,23 @@
              
          },
          {
-            "movieName":"",
-            "date":"",    
-             "img":"",
-             "rimg":"",
-             "url":"",
-             "text":""
+            "movieName":"Monster",
+            "date":" 2022",    
+             "img":"http://zegomovie.com/Uploads/vod/2022-12-19/63a02c97d4a48.PNG",
+             "rimg":"https://st1.latestly.com/wp-content/uploads/2022/10/resize-25.jpg",
+             "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKab+b8zyBCwTg+Ez7AM0psbqA8wPzUz/FcBRvBoxmQ==",
+             "text":"Monster"
        
-   }
+   },
+   {
+      "movieName":" Prince",
+      "date":"2022",    
+       "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8d8713ae7d.PNG",
+       "rimg":"https://i.ytimg.com/vi/KHUZsWSwxWM/maxresdefault.jpg",
+       "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbvjddb0EywOnvsp6hQ0psbqA8wPzUz/FcBRvBoxmQ==",
+       "text":"Prince"
+ 
+}
 
 
                         
