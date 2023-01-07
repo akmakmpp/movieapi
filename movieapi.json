@@ -206,8 +206,41 @@
           "rimg":"https://m.media-amazon.com/images/M/MV5BNjE3MDYxMGYtYWU5NC00ZjNlLWJjZDktNmNlM2JmNWRiN2U5XkEyXkFqcGdeQXVyMjAzOTA0MTk@._V1_.jpg",
           "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKab4ctH4GHA/gvYK5gN/ndmye6xn8XDdVaQy2HhS5xLFXq0f2lpObYbm1ieKfEMcXSG5SmO1SFrLd81Fskjh",
           "text":"Minions & More 1"
-    
+    },
+                
+    {
+      "movieName":"LEGO Star Wars Summer Vacation",
+      "date":"2022",    
+       "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b90e76cd861.PNG",
+       "rimg":"https://lumiere-a.akamaihd.net/v1/images/g_disneyplusoriginals_legostarwars_summervacation_212_0_cd0b662c.jpeg?region=0%2C0%2C1300%2C730",
+       "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKafUW/fEAmIsu/M1+iJvptu7fJdjoyCGcaIynlt50zz4ToEC/15qcbnm1i/ePzsQTnTALgHWazq2TsVNukDp",
+       "text":"LEGO Star Wars Summer Vacation"
+      },
+             
+    {
+      "movieName":"Puss in Boots:The Last Wish",
+      "date":"2022",    
+       "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b9004df2c59.PNG",
+       "rimg":"https://www.dreamworks.com/storage/cms-uploads/pib2-share-image-dec-21.jpg",
+       "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbvkb8v+GEExg+Y03Rl/h9etepZrsyndSLgvwn5S1hzETpMkwFpUY5nn7CvIJUMcXSG5SmO1SFrLd81Fskjh",
+       "text":"Puss in Boots:The Last Wish"
+
+ 
+},
+      
+{
+      "movieName":"Dragon Ball Super: Super Hero",
+      "date":"2022",    
+       "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b902a15a2a2.PNG",
+       "rimg":"https://imageio.forbes.com/specials-images/imageserve/621f702afd240f3949639c9d/0x0.jpg?format=jpg&crop=1279,719,x0,y0,safe&width=1200",
+       "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKa/jfd/4GEE/gP4U/AF/ueWrfqRwiCSAd+IYw3Zb+x3pW4wc+0poZ5jAzjLePyUUX3qaKh6MTF7Pc8lBtkzl",
+       "text":"Dragon Ball Super: Super Hero"
+ 
 }
+ 
+
+    
+
 
 ]
 }
