@@ -13,6 +13,52 @@
             "mors":"yes",
             "movietype":[ 
                   {
+                        "movieName":"The Empire",
+                        "date":"2021",    
+                         "img":"http://zegomovie.com/Uploads/vod/2023-02-07/63e1c21d8ace6.png",
+                         "rimg":"https://upload.wikimedia.org/wikipedia/en/e/e1/The_Empire_Hotstar.jpeg",
+                         "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/ZWf3aJkoMqcEIuDRV+pmKRoRHjRG7SogP/iZ520KFV5BEozQTCeGYsEmwRmY=",
+                         "text":"ဒီဇာတ်လမ်းတွဲဟာ “Empire Of Moghul”ဆိုတဲ့ ဝတ္ထုဇာတ်လမ်းတွဲကို အခြေခံပြီး ရိုက်ကူးထားတာပါ။ ဇာတ်လမ်းအစမှာတော့ ဖာဂန်းနားတိုင်းပြည်ကို အုပ်ချုပ်ခွင့်ပေးဖို့ ရှဲဘာနီခန်ဆိုတဲ့ နယ်စားက အင်အားကြီးမားလာတဲ့အခါ ပုန်ကန်လာတယ်။ အဲ့ဒီနန်းတော်မှာလည်း ဘုရင်ကိုယ်တိုင်က ပျော့ညံ့တယ်၊ စိတ်ရင်းကောင်းတယ်။ ဒီလို အခြေအနေမျိုးမှာ ရန်သူဖြစ်တဲ့ ရှဲဘာနီခန်ကတော့ အခွင့်ကောင်းယူဖို့ လွယ်ကူသလို ဖြစ်နေခဲ့ပါတယ်။ ဒါပေမဲ့ ပျော့ညံ့တဲ့ မင်းကြီးမှာ ထက်မြက်တဲ့ သားတော်တစ်ပါး ရှိလေတယ်။ အဲ့ဒီသားတော်ဟာ အခြေအနေ တစ်ခုအရ အရိုက်အရာကို ဆက်ခံဖို့ ဖြစ်လာခဲ့ပြီး ရန်သူတွေကို ဘယ်လိုမျိုး တိုက်မယ်ဆိုတာ.. နန်းတွင်းပဋိပက္ခတွေနဲ့ တိုက်ပွဲတွေကို ခံစားကြည့်လိုက်ပါဗျာ။",
+                         "moreUrl":[
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/ZWf3aJkoMqcEIuDRV+pmKRoRHjRG7SogP/iZ520KFV5BEozQTCeGYsEmwRmY=",
+                              "urlType":"Part  1 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/ZWf3aJkoMqcEIuDRV+ZmKRoRHjRG7SogP/iZ520GFV5BEozQTCeGYsEmwRmY=",
+                              "urlType":"Part  2 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/ZWf3aJkoMqcEIuDRV+JmKRoRHjRG7SogP/iZ520CFV5BEozQTCeGYsEmwRmY=",
+                              "urlType":"Part  3 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/ZWf3aJkoMqcEIuDRV/5mKRoRHjRG7SogP/iZ520eFV5BEozQTCeGYsEmwRmY=",
+                              "urlType":"Part  4 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/ZWf3aJkoMqcEIuDRV/pmKRoRHjRG7SogP/iZ520aFV5BEozQTCeGYsEmwRmY=",
+                              "urlType":"Part  5 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/ZWf3aJkoMqcEIuDRV/ZmKRoRHjRG7SogP/iZ520WFV5BEozQTCeGYsEmwRmY=",
+                              "urlType":"Part  6 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/ZWf3aJkoMqcEIuDRV/JmKRoRHjRG7SogP/iZ520SFV5BEozQTCeGYsEmwRmY=",
+                              "urlType":"Part  7 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/ZWf3aJkoMqcEIuDRV85mKRoRHjRG7SogP/iZ520uFV5BEozQTCeGYsEmwRmY=",
+                              "urlType":"Part  8 "
+                              }
+
+                     
+                     ]
+           
+                   
+               },
+                  {
                         "movieName":"Decibel",
                         "date":"2022",    
                          "img":"http://zegomovie.com/Uploads/vod/2022-12-19/63a01f5f4df99.PNG",
