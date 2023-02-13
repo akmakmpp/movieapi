@@ -13,54 +13,83 @@
             "mors":"yes",
             "movietype":[ 
                   {
-                        "movieName":"",
-                        "date":"",    
-                         "img":"",
-                         "rimg":"",
-                         "url":"",
-                         "text":"",
+                        "movieName":"A World Worth Protecting",
+                        "date":"2022",    
+                         "img":"http://zegomovie.com/Uploads/vod/2023-01-14/63c228e88e61d.jpg",
+                         "rimg":"https://pic-bstarstatic.akamaized.net/ugc/28f7f0572a0555735470e926a4d32567.jpg@720w_405h_1e_1c_1f.webp",
+                         "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKeId5nhO+Bf8VZIEwG9qbZ722DbSIwoUXSSaKh6MTF7Pc8lBtkzl",
+                         "text":"A World Worth Protecting",
                          "moreUrl":[
                               {
-                              "url": "",
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKeId5nhO+Bf8VZIEwG9qbZ722DbSIwoUXSSaKh6MTF7Pc8lBtkzl",
                               "urlType":"Part  1 "
                               },
                               {
-                              "url": "",
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKuId5nhO+Bf8VZIEwG9qbZ722DbSIwoUXSeaKh6MTF7Pc8lBtkzl",
                               "urlType":"Part  2 "
                               },
                               {
-                              "url": "",
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCK+Id5nhO+Bf8VZIEwG9qbZ722DbSIwoUXSaaKh6MTF7Pc8lBtkzl",
                               "urlType":"Part  3 "
                               },
                               {
-                              "url": "",
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCLOId5nhO+Bf8VZIEwG9qbZ722DbSIwoUXSGaKh6MTF7Pc8lBtkzl",
                               "urlType":"Part  4 "
                               },
                               {
-                              "url": "",
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCLeId5nhO+Bf8VZIEwG9qbZ722DbSIwoUXSCaKh6MTF7Pc8lBtkzl",
                               "urlType":"Part  5 "
                               },
                               {
-                              "url": "",
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCLuId5nhO+Bf8VZIEwG9qbZ722DbSIwoUXSOaKh6MTF7Pc8lBtkzl",
                               "urlType":"Part  6 "
                               },
                               {
-                              "url": "",
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCL+Id5nhO+Bf8VZIEwG9qbZ722DbSIwoUXSKaKh6MTF7Pc8lBtkzl",
                               "urlType":"Part  7 "
                               },
                               {
-                              "url": "",
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCIOId5nhO+Bf8VZIEwG9qbZ722DbSIwoUXS2aKh6MTF7Pc8lBtkzl",
                               "urlType":"Part  8 "
                               },
-            
-      
-      
-
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCIeId5nhO+Bf8VZIEwG9qbZ722DbSIwoUXSyaKh6MTF7Pc8lBtkzl",
+                              "urlType":"Part  9 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKf1z8EBT5h/PbY8C3FdIcIXn3iHPJAMWSGWFd0DVNWPBfcdPuELr",
+                              "urlType":"Part  10 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKfxz8EBT5h/PbY8C3FdIcIXn3iHPJAMWSGWFdkDVNWPBfcdPuELr",
+                              "urlType":"Part  11 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKf9z8EBT5h/PbY8C3FdIcIXn3iHPJAMWSGWFdUDVNWPBfcdPuELr",
+                              "urlType":"Part  12 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKf5z8EBT5h/PbY8C3FdIcIXn3iHPJAMWSGWFdEDVNWPBfcdPuELr",
+                              "urlType":"Part  13 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKflz8EBT5h/PbY8C3FdIcIXn3iHPJAMWSGWFc0DVNWPBfcdPuELr",
+                              "urlType":"Part  14 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKfhz8EBT5h/PbY8C3FdIcIXn3iHPJAMWSGWFckDVNWPBfcdPuELr",
+                              "urlType":"Part  15 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKarGc8r7ElQxnuYv2QN1v9O9eqhspySCKftz8EBT5h/PbY8C3FdIcIXn3iHPJAMWSGWFcUDVNWPBfcdPuELr",
+                              "urlType":"Part  16 "
+                              }
+                           
                      
                      ]
-           
                    
-               }
+               },               
+                 
                
                   {
                         "movieName":"My Forever Sunshine",
@@ -6050,6 +6079,26 @@
                   "movType":"Comedy",
                   "mors":"no",
                   "movietype":[
+                        {
+                              "movieName":"Everything Everywhere All at Once",
+                              "date":"2022",    
+                               "img":"http://zegomovie.com/Uploads/vod/2023-01-13/63c11cc97eb29.png",
+                               "rimg":"https://www.sho.com/site/image-bin/images/0_0_3493875/0_0_3493875_00h_1280x640.jpg",
+                               "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKa7necruAms3gvUC/xRossG2a7NngS2eWbkT33RZuzbdX5IJ3FdxbI3WzSfJNBoZSGfRBgLUBCOJFKMtkSicGNaIR3rnANxSFcwguWeScg==",
+                               "text":"Swiss Army Man လို ငစားကားတွေ ရိုက်ခဲ့တဲ့ Dan Kwa နဲ့ Daniel Scheinert တို့ ဒါရိုက်တာအတွဲရဲ့ နောက်ထပ် ပြောင်မြောက်တဲ့ ရုပ်ရှင်ကြီးလာပါပြီ။ခေါင်းစားမလားဆိုတော့ စားလည်းစားပါတယ်၊ မစားလည်းမစားပါဘူး။ သိပ္ပံစိတ်ကူးယဉ် အပြိုင်စကြဝဠာတွေအကြောင်းကို ဟာသတွေ ကွန်ဖူးတွေနဲ့ အခြေခံထားတဲ့ မိသားစုဇာတ်လမ်းလေးပါ။ အက်ဒ်မင်တော့ အတော်ကြိုက်ပါတယ်။ဒီရုပ်ရှင်ထဲမှာလည်း အနန္တစကြဝဠာပါပဲ။ အပြိုင်စကြဝဠာတွေ အများကြီးရှိပါတယ်။ Quantum superposition ဆိုတဲ့သဘောတရားလိုပဲ ဒြပ်မှုန်တွေဟာ ဖြစ်တည်မှုအခြေအနေမျိုးစုံမှာတပြိုင်တည်းရှိနေတဲ့သဘောပါ။ မာဗယ်ရဲ့ Multiverse တွေလိုပဲ လူတစ်ယောက်ရဲ့ ရွေးချယ်မှုကနေ အပြိုင်စကြဝဠာတွေ အဆုံးမရှိအောင်ခွဲထွက်သွားတာပဲ။ ဒီရုပ်ရှင်ထဲမှာတော့ လူတစ်ယောက်ရဲ့ ရွေးချယ်မှု သေးသေးလေးတွေကအစ အပြိုင်စကြဝဠာတစ်ခု ရှိသွားနိုင်ပါတယ်။အဓိကမင်းသမီးကြီးဖြစ်တဲ့ မီရှဲယိုကတော့ စကြဝဠာတစ်ခုထဲက အက်ဗလင်း ဆိုတဲ့ နာမည်နဲ့ ပင်မင်းဆိုင်ပိုင်ရှင်လေးပေါ့။ အရမ်းရိုးအေးတဲ့ ယောကျာ်းတစ်ယောက်ရယ် မိန်းကလေးချင်း ချစ်ကြိုက်နေတဲ့ သမီးတစ်ယောက်ရယ်ရှိတယ်။ ဒါပေမဲ့ အခြားစကြဝဠာက မီရှဲယိုကတော့ ဆရာမကြီးပါ။ အပြိုင်စကြဝဠာတွေကို ဖျက်မယ့် မိစ္ဆာကြီးကို ရင်ဆိုင်ရင် သေသွားခဲ့တာပါ။ ဒီတော့ အဲဒီမိစ္ဆာကို ယှဉ်နိုင်လောက်မယ့် အက်ဗလင်းကို အက်ဗလင်းပေါင်းထောင်ပေါင်းများစွာထဲက လိုက်ရှာနေခဲ့ကြတာပါ။ ဒါပေမဲ့ ပင်မင်းဆိုင်ပိုင်ရှင် ရိုးရိုးအေးအေးကြီး အက်ဗလင်းကမှ ဘာလို့ Matrix ထဲကလို The One ဖြစ်လာပြီး အပြိုင်စကြဝဠာတွေကို ကယ်တင်မလဲဆိုတာ… ပွင့်ပွင့်လင်းလင်းပြောရရင်တော့ Doctor Strange Multiverse of Madness ထဲ ပိုကြိုက်ပါတယ်။ IMDb 8.7 ရထားပါပြီ။ မယုံရင်ကြည့်လိုက်ပါလို့ပဲ ပြောချင်ပါတယ်။"
+                         
+                     },
+                     
+                        {
+                              "movieName":"Naan Mirugamaai Maara",
+                              "date":"2022",    
+                               "img":"http://zegomovie.com/Uploads/vod/2023-02-08/63e333449ecb1.png",
+                               "rimg":"https://static.toiimg.com/photo/95533318.jpeg",
+                               "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaXwfdbaH3Eri/Mq6BBzhte/fKAtjiCTdoA1w2Jb9R7KW4k9yV5qY8T+y3a4Tm4=",
+                               "text":"ဘွန်မီနာသန်ဆိုတဲ့လူဟာ သူ့ဘဝကို အေးအေးဆေးဆေးဖြတ်သန်းနေခဲ့ပြီး မိသားစုကိုသိတတ်တဲ့ လူတစ်ယောက်လည်း ဖြစ်ပါသေးတယ်။သို့ပေမယ့် သူ့ညီလေးအသတ်ခံလိုက်ရတဲ့အချိန်မှာတော့ ဒါတွေအားလုံးဟာ သူ့အတွက် မှေးမှိန်သွားခဲ့ပါတယ်။ဆုံးသွားတဲ့ညီဖြစ်သူ တရားမျှတမှုရရှိရေးအတွက် အပတ်တကုတ်ကြိုးစားခဲ့ပေမယ့် တရားဥပဒေရဲ့လျှော့ကြိုးတွေကို သူ အယုံအကြည်မရှိခဲ့ပါဘူး။ ဒီလိုနဲ့ သူကိုယ်တိုင်ပဲ ညီဖြစ်သူတရားမျှတမှုရရှိရေးအတွက် ကလဲ့စားချေဖို့ထွက်လာခဲ့တဲ့အခါ သူ ဘယ်လိုအခက်အခဲတွေနဲ့ ရင်ဆိုင်ရမလဲ…။အောင်မြင်နိုင်ပါ့မလား..။သူ့မိသားစုအပေါ် ဘယ်လိုအကျိုးသက်ရောက်လာမလဲဆိုတာကိုတော့ ဆက်လက်ရှုစားပေးကြပါဦးနော်…။"
+                         
+                     },
+                     
                         {
                               "movieName":"La traversée",
                               "date":"2022",    
