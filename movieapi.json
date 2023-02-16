@@ -13,6 +13,111 @@
             "mors":"yes",
             "movietype":[ 
                   {
+                        "movieName":"Cracow Monsters",
+                        "date":"2022",    
+                         "img":"http://zegomovie.com/Uploads/vod/2023-02-15/63ec4ab60af64.png",
+                         "rimg":"https://occ-0-3933-3934.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZuHsGo9Y8djA8PEK_k2FvlKGeQEY_zSunAUas6jTH0WajoIoy0AqhxkGWMldm8u1UxnJ227pY4dAThT_wMtsccMVVnxQVMRWhhm2e_XouESud8szYfnta5WxUz1zt9iQm7AAQ.jpg?r=1e0",
+                         "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKajjfdv4AU4xguEz7ANpmIbvS/Ez7wKAea4zxlpT+gDfX5ID+w8pR9qilS/LeWw=",
+                         "text":"ဒီတစ်ခါတော့ စိတ်ကူးယဉ်ဆန်ဆန် လျှို့ဝှက်ဆန်းကြယ် ပိုလန်စီးရီးလေးတစ်ခုကို မြည်းစမ်းကြည့်ရအောင်ပါ။ ဆေးကျောင်းသူတစ်ယောက်ဖြစ်တဲ့ Alex ဟာ အိပ်မက် ဆိုးတွေ အမြဲမက်လေ့ရှိတဲ့သူပါ။ မတော်တဆမှုတွေဖြစ်တိုင်း တခြားလူတွေအကုန်သေကုန်ကြပေမဲ့ Alex ကတော့ ထူးထူး ဆန်းဆန်း သူတစ်ယောက်တည်း အမြဲ ဘေးမသီရန်မခ လွတ် လာလေ့ရှိပါတယ်။ အဲဒီအကြောင်း ကျောင်းက ပရော်ဖက်ဆာ တစ်ယောက်ကသိသွားပြီး Alex ကို သူ့သုတေသနအဖွဲ့ထဲ ဆွဲထည့်ပါတော့တယ်။ လျှို့ဝှက်ဆန်းကြယ်တဲ့ ပရော်ဖက်ဆာနဲ့ သူ့ရဲ့ကျောင်းသား တစ်သိုက်ဟာ တစ်အိမ်တည်းစုနေပြီး ပရော်ဖက်ဆာရဲ့ ဦးဆောင်မှုနဲ့ လျှို့ဝှက်ဆန်းကြယ်တဲ့ သုတေသနတစ်ခုကို လုပ်နေကြတာပါ။ Alex တစ်ယောက် အဲဒီအိမ်ကိုရောက်သွားပြီး စလဗ်လူမျိုးတွေရဲ့ ကိုးကွယ်ယုံကြည်မှုတွေ၊ ရှေးခေတ် မကောင်းဆိုးဝါးတွေ၊ သွေးဆာနေတဲ့ နတ်မိစ္ဆာတွေနဲ့ ပတ်သက်မိတဲ့အခါမှာတော့….",
+                         "moreUrl":[
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKajjfdv4AU4xguEz7ANpmIbvS/Ez7wKAea4zxlpT+gDfX5ID+w8pR9qilS/LeWw=",
+                              "urlType":"Part  1 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKajjfdv4AU4xguEz7ANpmIbvS/Ew7wKAea4zxlpT+gDfX5ID+w8pR9qhlS/LeWw=",
+                              "urlType":"Part  2 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKajjfdv4AU4xguEz7ANpmIbvS/Ex7wKAea4zxlpT+gDfX5ID+w8pR9qglS/LeWw=",
+                              "urlType":"Part  3 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKajjfdv4AU4xguEz7ANpmIbvS/E27wKAea4zxlpT+gDfX5ID+w8pR9qnlS/LeWw=",
+                              "urlType":"Part  4 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKajjfdv4AU4xguEz7ANpmIbvS/E37wKAea4zxlpT+gDfX5ID+w8pR9qmlS/LeWw=",
+                              "urlType":"Part  5 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKajjfdv4AU4xguEz7ANpmIbvS/E07wKAea4zxlpT+gDfX5ID+w8pR9qllS/LeWw=",
+                              "urlType":"Part  6 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKajjfdv4AU4xguEz7ANpmIbvS/E17wKAea4zxlpT+gDfX5ID+w8pR9qklS/LeWw=",
+                              "urlType":"Part  7 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKajjfdv4AU4xguEz7ANpmIbvS/E67wKAea4zxlpT+gDfX5ID+w8pR9qrlS/LeWw=",
+                              "urlType":"Part  8 "
+                              }
+                           
+                     
+                     ]
+           
+           
+                   
+               },
+                  {
+                        "movieName":"Jehanabad Of Love and War",
+                        "date":"2023",    
+                         "img":"http://zegomovie.com/Uploads/vod/2023-02-16/63eddfe734004.PNG",
+                         "rimg":"https://www.koimoi.com/wp-content/new-galleries/2023/02/jehanabad-of-love-war-review-001.jpg",
+                         "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgSYT3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2S+4lz3Ht",
+                         "text":"ဒီစီးရီးလေးက နူးညံ့သိမ်မွေ့တဲ့ ချစ်ခြင်းမေတ္တာနဲ့ မင်းမဲ့စရိုက်တွေ တပြိုင်နက် ပေါက်ဖွားလာကာ ထိပ်တိုက်တွေ့ကြမည့် ဘီဟားမှာရှိတဲ့ ဂျာဟနာဘတ်ဆိုတဲ့ မြို့ငယ်လေးတစ်မြို့ရဲ့အကြောင်းကို ရိုက်ကူးတင်ဆက်ထားခြင်းပဲဖြစ်ပါတယ်။ ဟုတ်ပါတယ်။ ဂျာဟနာဘတ်မြို့လေးရဲ့အချစ်နဲ့စစ်ရဲ့အကြောင်းပါ။ ဒီစီးရီးလေးက SonyLIV က ထွက်ရှိခဲ့တာဖြစ်ပြီး ဖြစ်ရပ်မှန်အပေါ် အခြေခံရိုက်ကူးထားတာပဲဖြစ်ပါတယ်။ ဇာတ်လမ်းရဲ့ကျောရိုးကတော့…။ လက်နက်ကိုင်တပ်ဖွဲ့ဝင်တွေဟာ သူတို့ရဲ့တပ်မှူးကို ထောင်ကနေလွတ်အောင် စတင်ကြိုးစားနေကြတဲ့အချိန် တစ်ဖက်မှာလည်း ကောလိပ်ကျောင်းသူလေးနဲ့ ကျောင်းဆရာတို့ရဲ့အချစ်ဇာတ်လမ်းလေးဟာလည်း စတင်ပေါက်ဖွားလာနေခဲ့ပြီဖြစ်ပါတယ်။ တစ်ဖက်က စစ်နဲ့ ကျန်တစ်ဖက်က အချစ်မှာ ဘယ်အရာဟာ အောင်နိုင်မှုရရှိသွားမလဲ…။ ဒီဇာတ်လမ်းနှစ်ခုဟာ ဆက်စပ်မှုရှိလာခဲ့လေမလား…။ ဂျာဟနာဘတ်မြို့သူ၊ မြို့သားတွေရဲ့ကံကြမ္မာဟာ ဘယ်လိုဖြစ်လာမလဲဆိုတာကိုတော့ ဒီစီးရီးလေးမှာ ရင်ခုန်စိတ်လှုပ်ရှားစွာ စောင့်ကြည့်ပေးပါဦးနော်…။",
+                         "moreUrl":[
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgSYT3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2S+4lz3Ht",
+                              "urlType":"Part  1 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgSUT3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2SO4lz3Ht",
+                              "urlType":"Part  2 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgSQT3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2Se4lz3Ht",
+                              "urlType":"Part  3 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgSMT3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2Tu4lz3Ht",
+                              "urlType":"Part  4 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgSIT3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2T+4lz3Ht",
+                              "urlType":"Part  5 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgSET3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2TO4lz3Ht",
+                              "urlType":"Part  6 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgSAT3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2Te4lz3Ht",
+                              "urlType":"Part  7 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgS8T3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2Qu4lz3Ht",
+                              "urlType":"Part  8 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgS4T3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf2Q+4lz3Ht",
+                              "urlType":"Part  9 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKaH0dNn5F2E/iN0hxR5srtewapZjshLCKYgMgCcT3hbDW44Ryl58TYzf1DTeLAMVenTGFF6JAAf3Su4lz3Ht",
+                              "urlType":"Part  10 "
+                              }
+                                    
+                              
+                                 
+                           
+                     
+                     ]
+           
+           
+                   
+               },
+                  {
                         "movieName":"Soul of Soldier Master",
                         "date":"2022",    
                          "img":"http://zegomovie.com/Uploads/vod/2023-01-18/63c7cd2b08f02.jpg",
