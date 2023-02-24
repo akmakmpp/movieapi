@@ -13,6 +13,52 @@
             "mors":"yes",
             "movietype":[ 
                   {
+                        "movieName":"Youth MT",
+                        "date":"2022",    
+                         "img":"http://zegomovie.com/Uploads/vod/2023-02-23/63f71c687b2fd.png",
+                         "rimg":"https://6.vikiplatform.com/image/5c9d44fa706643c799db7ef28943bafc/dummy.jpg?x=b&a=0x0",
+                         "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbL+acz/O1cN3KMCuUA1ktmreqlPlBLCKYhsgDlR5EekNe9/pzAXDeWctE20QmI=",
+                         "text":"Youth MT ဆိုတာကတော့ ဒါရိုက်တာ ဂင်ဆောင်းယွန်း ရဲ့ နာမည်ကြီးစီးရီး ၃ ခု ဖြစ်တဲ့ – Love in the Moonlight – Itaewon Class – The Sound of Magic ထဲက နာမည်ကြီး မင်းသား မင်းသမီးတွေ ဖြစ်တဲ့ Park Bo Gum, Park Seo Joon, Ji Chang Wook, Ahn Bo Hyun, Jung Jin Young, Kwak Dong Yeon, Ryu Kyung Soo, Hwang In Youp Kim Yoo Jung, Chae Soo Bin, Kwon Na Ra, Lee Joo Young, Choi Sung Eun, Ji Hye Won, Kim Bo Yun တို့ ပူးပေါင်း ပါဝင်လှုပ်ရှား ကစားဖျော်ဖြေပေးကြမယ့် ရသစုံ ရှိုးပဲ ဖြစ်ပါတယ်။ MT ဆိုတာကတော့ Membrership Training ဖြစ်ပြီးတော့ တူတူလျှောက်သွား၊ ကစားကြရင်း နဲ့ တစ်ဦး နဲ့ တစ်ဦး ချစ်ခင်ရင်းနှီးမှုတွေရပြီး အပျော်တွေတိုး သံယောဇဉ်တွေ တိုးလာကြဖို့ ဆိုတဲ့ ရည်ရွယ်ချက်နဲ့ပဲ ဖြစ်ပါတယ်။ အဆင်စုံ အသွေးစုံကို ကြူးရမယ့်ရှိုး ဖြစ်လို့",
+                         "moreUrl":[
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbL+acz/O1cN3KMCuUA1ktmreqlPlBLCKYhsgDlR5EekNe9/pzAXDeWctE20QmI=",
+                              "urlType":"Part  1 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbL+acz/O1cN3KMCuUM1ktmreqlPlBLCKYhsgzlR5EekNe9/pzAXDeWctE20QmI=",
+                              "urlType":"Part  2 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbL+acz/O1cN3KMCuUI1ktmreqlPlBLCKYhsgjlR5EekNe9/pzAXDeWctE20QmI=",
+                              "urlType":"Part  3 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbL+acz/O1cN3KMCuUU1ktmreqlPlBLCKYhshTlR5EekNe9/pzAXDeWctE20QmI=",
+                              "urlType":"Part  4 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbL+acz/O1cN3KMCuUQ1ktmreqlPlBLCKYhshDlR5EekNe9/pzAXDeWctE20QmI=",
+                              "urlType":"Part  5 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbL+acz/O1cN3KMCuUc1ktmreqlPlBLCKYhshzlR5EekNe9/pzAXDeWctE20QmI=",
+                              "urlType":"Part  6 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbL+acz/O1cN3KMCuUY1ktmreqlPlBLCKYhshjlR5EekNe9/pzAXDeWctE20QmI=",
+                              "urlType":"Part  7 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbL+acz/O1cN3KMCuUk1ktmreqlPlBLCKYhsiTlR5EekNe9/pzAXDeWctE20QmI=",
+                              "urlType":"Part  8 "
+                              }
+      
+
+                     
+                     ]
+                   
+               },
+                  {
                         "movieName":"Bad Guys",
                         "date":"2022",    
                          "img":"http://zegomovie.com/Uploads/vod/2023-02-22/63f5e6f598b2a.PNG",
@@ -8536,6 +8582,46 @@
 "movType":"Action ",
 "mors":"no",
 "movietype":[
+      {
+            "movieName":"Dog Soldiers",
+            "date":"2022",    
+             "img":"http://zegomovie.com/Uploads/vod/2022-10-31/635f99b122a00.jpg",
+             "rimg":"https://img3.hulu.com/user/v3/artwork/4571f99b-7d64-4843-84a2-588937157afb?base_image_bucket_name=image_manager&base_image=a6a45ff8-2d35-4622-b8c6-bf3f4eecb620&region=US&format=jpeg&size=952x536",
+             "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKa/+e+v4Gmc3ieA0pjV1rOWxYqVrpTOBNqAshRQ/lw==",
+             "text":"ကားဟောင်းတစ်ကားဆိုပေမယ့်တော်တော်ကိုမဆိုးလှတဲ့ထဲမှာပါပါတယ်။ ဇာတ်ကားတစ်ကားလုံးနီးပါးကအိမ်တစ်အိမ်ထဲမှာ စစ်သားတစ်ဖွဲ့နဲ့မိန်းကလေး တစ်ယောက်ရဲ့ တစ်ညတာအဖြစ်အပျက်တွေကိုပဲပြသွားတာပါ ။ တစ်မျိုးတော့ မထင်ပါနဲ့။ အိမ်ရဲ့ပတ်ပတ်လည်မှာမကောင်းတဲ့အရာတွေဝိုင်းနေတဲ့ကြားကနေ အားလုံးတူတူလွတ်အောင်ကြံစည်ကြပုံတွေကိုပြောတာပါ။အဲဒီမကောင်းတဲ့အရာတွေကဘာတွေလဲဆိုတာပြောလိုက်ရင်ကြည့်ရတာ ပေါ့သွား နိုင်တာကြောင့်မပြောတော့ပါဘူး။ မဖြစ်မနေချီးကျူးရမှာကသရုပ်ဆောင်တစ်ယောက် ချင်းစီကိုပါပဲ။ ဗိုလ်ကြီးတစ်ယောက်နဲ့တပ်သားငါးယောက်၊ အားလုံးတစ်ယောက်ချင်းရဲ့ ကာရိုက်တာတည်ဆောက်ပုံတွေ သရုပ်ဆောင်ချက်တွေဟာ လိုလေသေးမရှိအောင် ပြည့်စုံသလို၊ ဇာတ်လမ်းကအကောင်းကြီးမဟုတ်တောင် သူတို့ကြောင့်ဆက်ကြည့်ချင်စိတ် ဖြစ်လာမယ်ဆိုတာအာမခံနိုင်ပါတယ်။ ခေတ်အခြေအနေအရအထူးပြုလုပ်ချက်တွေမှာ လိုအပ်ချက်ရှိပေမယ့် ဖြည့်တွေးတတ်ရင်တော့ဒါကလည်းပြောရလောက်တဲ့အပြစ်မျိုးမဟုတ်ပါဘူး။ ကဲဒီလူတစ်စုအဲဒီညမှာဘာတွေနဲ့ဘယ်လိုရင်ဆိုင်ခဲ့ရတာလဲဆိုတာသိချင်ရင်တော့ ကိုယ်တိုင်ပဲကြည့်ရှုလိုက်ကြပါဦး။"
+       
+   },
+   
+      {
+            "movieName":"The Gray Man",
+            "date":"2022",    
+             "img":"http://zegomovie.com/Uploads/vod/2022-08-17/62fc5afcf1774.jpg",
+             "rimg":"https://ntvb.tmsimg.com/assets/p21562309_v_h8_aa.jpg?w=1280&h=720",
+             "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/5ef/lF3oTjfxo3Rl/jMS/d4xjrm+faPlZtBI5kQ==",
+             "text":"နက်ဖလစ်ရဲ့ အက်ရှင်ကားအသစ်ကြည့်ရအောင်။ ဒါရိုက်တာကတော့ ရက်ဆို ညီအစ်ကိုနှစ်ယောက်ပါပဲ။ အဗန်ဂျာဒါရိုက်တာတွေပေါ့။ ဇာတ်ညွှန်းဆရာတွေကလည်း အဗန်ဂျာရေးတဲ့သူတွေပါပဲ။ သရုပ်ဆောင်ကတော့ ရိုင်ယန်ဂို့စလင်း၊ ခရစ်စ် အီဗန်တို့နှစ်ယောက်အပြင် No Time to die တို့ Bladerunner တို့ထဲက မင်းသမီး အန်နာ ဒီအာမက်စ်လည်း ပါပါတယ်။ ပြီးတော့ Iron Fist တို့ Love and Monsters တို့မှာ အရမ်းချစ်ဖို့ကောင်းတဲ့ မင်းသမီး ဂျက်ဆီကာဟန်းဝစ်ပါ ပါပါသေးတယ်။ တမီးလ်မင်းသား Dhanush ပါ အားဖြည့်ထားပါတယ်။ ဇာတ်လမ်းအကျဉ်းကတော့ကော့ထ်ဂျန်ထရီ (ရိုင်ယန်ဂို့စလင်း)ဟာ လူသတ်မှုနဲ့ထောင်နှစ်ရှည်ကျနေသူဖြစ်ပြီး တစ်နေ့မှာတော့ စီအိုင်အေရဲ့ လျို့ဝှက်တရားမဝင်စစ်ဆင်ရေးတွေမှာ လုပ်ပေးဖို့ အပေးအယူနဲ့ထောင်ကလွတ်မြောက်သွားခဲ့ပါတယ်။ အဲဒီနောက် အေးဂျင့်လောကမှာ Six ဆိုတဲ့နာမည်တစ်လုံးနဲ့ကျော်ကြားလာခဲ့ပါတယ်။ တစ်နေ့မှာတော့ သူလုပ်ကြံရတဲ့ ပစ်မှတ်ဆီကနေ မရသင့်လိုက်တဲ့ အချက်အလက်တွေရသွားပြီး သူ့ရဲ့အဖွဲ့အစည်းကပါ သူ့ကိုပြန်လိုက်သတ်လာတာကြောင့် ထွက်ပြေးရပါတော့တယ်။ သူ့နောက်ကို တရားမဝင်လိုက်သတ်ဖို့ အေဂျင်စီက ပြန်ငှားလိုက်တာကတော့ နာမည်ဆိုးနဲ့ ကြေးစား လွိုက်ဟန်ဆန် (ခရစ်စ် အီဗန်) ပါပဲ။ သူတို့နှစ်ယောက် စိန်ပြေးတမ်းကစားကြရင်း တိုက်ခိုက်ကြ သတ်ကြဖြတ်ကြတာတွေကို အက်ရှင်ကားပီပီသသပဲ ဝုန်းဒိုင်းကျဲနေအောင် ကြည့်ရမှာပါပဲ။"
+       
+   },
+   
+      {
+            "movieName":"Spider-Man: No Way Home",
+            "date":"2021",    
+             "img":"http://zegomovie.com/Uploads/vod/2022-01-07/61d7bb228ce7f.jpg",
+             "rimg":"https://images.thedirect.com/media/article_full/spider-man-no-way-home-theatrical-release.jpg",
+             "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKbjhddzyBE4/gtwo3hBjg9mza+5RsCiWfb8R0Hly+yTKQ6gfxVo2b5qnvke+SGg=",
+             "text":"စောင့်မျှော်နေရတဲ့ Spider-Man : No Way Home ဇာတ်ကားလေးထွက်ရှိလို့လာပါပြီIMDb 9.1 ရရှိထားပီး Rotten tomatoes : 94% ရရှိထားပြီး နိုင်ငံတကာမှာ ဝက်ဝက်ကွဲ အောင်မြင်နေတယ်ဆိုတာ AGVDbNVutgwiep6615bjTJnQkScwWuUEMuU95NredRG5 Spider-Man : Far From Home အပြီးမှာ ပီတာရဲ့ Identity ကို Mysterioကဖေါ်ထုတ်လိုက်တဲ့ cliffhanger နဲ့အဆုံးသတ်ထားတာကိုတွေ့ရမှာပါ..အခုဇာတ်ကားကလည်း အဲ့နေရာကပဲ စတင်ခဲ့ပြီး ပီတာနဲ့ MJ တို့ ထွက်ပြေးကြရတာပေါ့လူထုရဲ့ရန်သူ နံပါတ် ၁ ဖြစ်လာပီးတဲ့နောက်မှာ ပီတာ တစ်ယောက်အခက်အခဲတွေအများကြီးကြုံတွေ့ပြီးပီတာရဲ့ အနီးကချစ်ရတဲ့သူတွေပါ အကုန်ထိခိုက်ကုန်ပါတော့တယ်..ချစ်သူ မုန်းသူ ရှိစမြဲဆိုပေမယ့်အခက်အခဲက ပိုများနေတာမို့ ပီတာတစ်ယောက် ကြံရာမရဖြစ်ပြီးတော့ ဒေါက်တာထူးဆန်း ဆီကိုအကူအညီတောင်းဖို့သွားပါတော့တယ်..Dr.Strange ကလည်း ပီတာကို ကူညီဖို့အတွက်အန္တရာယ်များတဲ့ Spell တခုကိုလုပ်ဆောင်ရင်း ပီတာရဲ့ ဝင်ရှုပ်မှုကြောင့် spell ဟာ ကပေါက်တိကပေါက်ချာတွေဖြစ်ကုန်ပြီး Multiverse က ဧည့်သည်တွေရောက်လာတဲ့အခါမှာတော့ပီတာတစ်ယောက်ဘယ်လိုတွေရင်ဆိုင်ရမလဲဆိုတာဆက်လက်ခံစားကြည့်လိုက်ရအောင်။"
+       
+   },
+   
+      {
+            "movieName":"Mumbai Saga",
+            "date":"2021",    
+             "img":"http://zegomovie.com/Uploads/vod/2021-05-08/60965a1e90d04.jpg",
+             "rimg":"https://images.lifestyleasia.com/wp-content/uploads/sites/7/2021/03/19174919/965012-mumbaisaga-review.jpg",
+             "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKabkcdr2H1A/i/NoxAR3qde3XaBloW+faPlZtBI5kQ==",
+             "text":"ဂျွန်အေဗရာဟမ် ၊ ကာဂျဲလ် ၊ အီမ်ရန်းတို့ ပါဝင်သရုပ်ဆောင်ထားတဲ့ ဘောလိဝုဒ်ကားလေးထွက်လာလို့ အခက်အခဲတွေကြားက မရရအောင် တင်ပေးလိုက်ပါတယ်။ 1980 ခုနှစ်နောက်ပိုင်း ဘုံဘေမြို့ ( ယခု မွန်ဘိုင်း) ကို အခြေတည် ရိုက်ကူးထားတဲ့ ဒီရုပ်ရှင်ဟာ ဖြစ်ရပ်မှန်ရဲ့ တစ်စိတ်တစ်ပိုင်းကို မှီငြမ်းထားတယ်လို့ သိရပြီး ၊ အဲ့ဒီခေတ် အဲ့ဒီအခါ ဂိုဏ်းစတားတွေ ကြီးစိုးတဲ့ အချိန် ၊ နိုင်ငံရေးအရှုပ်အထွေးတွေကို နောက်ခံထားပြီး ရိုက်ကူးထားတာဖြစ်ပါတယ်။"
+       
+   },
+   
       {
             "movieName":"578: Magnum",
             "date":"2022",    
