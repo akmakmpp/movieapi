@@ -13,6 +13,33 @@
             "mors":"yes",
             "movietype":[ 
                   {
+                        "movieName":"The Snow Girl",
+                        "date":"2022",    
+                         "img":"http://zegomovie.com/Uploads/vod/2023-02-24/63f884f1dbad1.png",
+                         "rimg":"https://www.denofgeek.com/wp-content/uploads/2023/02/the-snow-girl-1.jpg?resize=768%2C432",
+                         "url":"rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/5eev5GXQZheAr2kErjobvIZVqpRKcd7ob2GVQx0Oaf9BBhlJoNu2UvEW8Smo=",
+                         "text":"Netflixရဲ့ စပိန်mini seriesအသစ်လာပါပြီ။ အန်နာ(မိခင်)နဲ့အဲလ်ဗာရို(ဖခင်)၊ အမရာ(သမီး) မိသားစုသုံးယောက်သား စပိန်နိုင်ငံ မက်လန်ဂါမြို့လေးမှာ ခရစ်စမတ်ညချမ်းလေးမှာကျင်းပတဲ့ အလှပြပွဲကို ပျော်ပျော်ရွှင်ရွှင် မိသားစုလိုက်သွားကြည့်ကြပါတယ်။ ပျော်ရွှင်နေကြစဥ် သမီးဖြစ်သူ ၅နှစ်သမီးလေး အမရာက ရုတ်တရပ်ပျောက်ဆုံးသွားပါတယ်။ အန်နာတို့မိဘတွေလည်း ၅နှစ်သမီးလေးပျောက်သွားလို့ သမီးဇောနဲ့လိုက်ရှာနေခဲ့တာ ၆နှစ်တောင်ရှိသွားပါပြီ။ သတင်းအစနမရလို့ သေပြီလို့လက်ခံလိုက်ရတာကနေ မထင်မှတ်ပဲ သမီးလေး အမရာရဲ့ လက်ရှိမှတ်တမ်းဗီဒီယိုတစ်ခုလက်ထဲရောက်လာပါတော့တယ်။ အမရာကို ဘယ်သူက ပြန်ပေးစွဲသွားတာလဲ၊ ဘာလို့ပြန်ပေးစွဲတာလဲ၊ ဘာလို့၆နှစ်အကြာမှ ဗီဒီယိုဖိုင်ကိုပို့ပေးတာလဲ၊ ဘာအကြောင်းတွေ​များနောက်ကွယ်မှာရှိမလဲဆိုတာကို Crime thriller ပုံစံကြည့်ရှု့ရမှာဖြစ်ပါတယ်။ Personallyအရ Netflixက trailerထုတ်ကတည်းက စောင့်နေခဲ့ရတာဆိုတော့ စောင့်ခဲ့ရတဲ့ကျိုးနပ်တဲ့ series တစ်ခုဖြစ်ပြီး ကျွန်တော့်လိုမျိုး အကောင်းကြိုက်တဲ့လူတွေအတွက် ကြည့်ရှု့ဖို့တိုက်တွန်းပါတယ်။",
+                         
+                        "moreUrl":[
+                             {
+                             "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/5eev5GXQZheAr2kErjobvIZVqpRKcd7ob2GVQx0Oaf9BBhlJoNu2UvEW8Smo=",
+                             "urlType":"Part  1 "
+                             },
+                             {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/5eev5GXQZheAr2kErjobsIZVqpRKcd7ob2GVQx0Oaf9BChlJoNu2UvEW8Smo=",
+                              "urlType":"Part  2 "
+                              },
+                              {
+                              "url": "rL4bbVP1uswa0mOUqbrc1CtWQhmlM8h+inqxGzKWSRqtKb/5eev5GXQZheAr2kErjobtIZVqpRKcd7ob2GVQx0Oaf9BDhlJoNu2UvEW8Smo=",
+                              "urlType":"Part  3 "
+                               }
+
+
+]
+
+                   
+               },
+                  {
                         "movieName":"Youth MT",
                         "date":"2022",    
                          "img":"http://zegomovie.com/Uploads/vod/2023-02-23/63f71c687b2fd.png",
